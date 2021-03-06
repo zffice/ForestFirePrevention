@@ -72,7 +72,7 @@ export default {
           level:'1级',
           content:'林场东南方式2号站点',
           Date:'2020年2月1日17点23分',
-          Author:'一号检测员邹欣欣'
+          Author:'测试提交'
         },
         {
           Title:'火险报警',
