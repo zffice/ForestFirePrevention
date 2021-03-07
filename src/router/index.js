@@ -69,6 +69,11 @@ export const constantRoutes = [
         meta: { title: '数据管理', icon: 'user', noCache: true }
       }
     ]
+  },
+  {
+    path: '/three',
+    component: () => import('@/views/components-demo/threeDome'),
+    hidden: true
   }
 ]
 
